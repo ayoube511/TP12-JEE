@@ -1,0 +1,12 @@
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\config\DatabaseInitializer.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\config\SecurityConfig.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\entities\Role.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\entities\User.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\jwt\JwtAuthorizationFilter.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\jwt\JwtUtil.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\repositories\RoleRepository.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\repositories\UserRepository.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\services\CustomUserDetailsService.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\SpringJwtApiApplication.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\web\AuthController.java
+C:\Users\ayoub\Downloads\spring-jwt-api\src\main\java\ma\ens\security\web\TestController.java

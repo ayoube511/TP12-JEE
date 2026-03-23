@@ -1,0 +1,12 @@
+ma\ens\security\config\DatabaseInitializer.class
+ma\ens\security\entities\Role.class
+ma\ens\security\web\AuthController.class
+ma\ens\security\repositories\UserRepository.class
+ma\ens\security\services\CustomUserDetailsService.class
+ma\ens\security\jwt\JwtUtil.class
+ma\ens\security\jwt\JwtAuthorizationFilter.class
+ma\ens\security\repositories\RoleRepository.class
+ma\ens\security\web\TestController.class
+ma\ens\security\SpringJwtApiApplication.class
+ma\ens\security\config\SecurityConfig.class
+ma\ens\security\entities\User.class
